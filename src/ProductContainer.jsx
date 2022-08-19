@@ -6,6 +6,7 @@ const ProductContainer = () =>{
   return(
     <div className="product-container">
       <Product />
+      <Product />
     </div>
   )
 }

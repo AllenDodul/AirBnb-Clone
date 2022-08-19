@@ -30,6 +30,7 @@ nav{
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
 }
 .product-card{
   width: 200px;
@@ -56,4 +57,7 @@ nav{
 }
 .gray{
   color: gray;
+}
+.price{
+  padding-left: 10px;
 }
